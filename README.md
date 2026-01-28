@@ -26,10 +26,5 @@ This project is designed to help you understand **FastAPI basics**, **Pydantic m
 
 ---
 
-## ⚙️ Installation and Setup
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/AhmedAbdelghani28e/book-crud-fastap.git
-cd book-crud-fastap
